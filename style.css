@@ -1,0 +1,16 @@
+<head>
+  a:link rel="stylesheet" href="styles.css" {
+      
+    body {
+        margin:0px; 
+        padding:0px;
+        border:0px;
+    }
+    div{
+        background-color: darkred;
+    }
+    #div1{
+        background-color: darkslateblue;
+    }
+  }
+</head>
